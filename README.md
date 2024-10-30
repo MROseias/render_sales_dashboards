@@ -1,2 +1,1 @@
-# render_dashboard_vendas
-dashboard_de_vendas
+A simple example Dashboard using library plotly
